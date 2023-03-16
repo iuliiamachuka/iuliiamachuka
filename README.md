@@ -1,9 +1,15 @@
 
 ## Hi there 👋 my name is [Iuliia Machuka](https://www.linkedin.com/in/iuliiamachuka/) I'm Software QA Automation Engineer from IL, US✨&nbsp;
+
  My LinkedIn profile:
 [![Linkedin Badge](https://img.shields.io/badge/-imachuka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuliiamachuka/)](https://www.linkedin.com/in/iuliiamachuka/)
 
- ### :hammer_and_wrench: Here's my toolbox : 
+
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="1000" height="200"/>
+  </div>
+  
+  
+### :hammer_and_wrench: Here's my toolbox : 
   
  <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
