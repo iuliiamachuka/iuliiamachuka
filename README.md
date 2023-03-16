@@ -1,7 +1,6 @@
-< div
-align = "center" >
-## ✨&nbsp;Hi there 👋 my name is [Iuliia Machuka](https://www.linkedin.com/in/iuliiamachuka/) I'm Software Automation QA Engineer from IL, US✨&nbsp;
-<!-< / div >
+
+## Hi there 👋 my name is [Iuliia Machuka](https://www.linkedin.com/in/iuliiamachuka/) I'm Software Automation QA Engineer from IL, US✨&nbsp;
+
 **iuliiamachuka/iuliiamachuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
